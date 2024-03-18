@@ -37,7 +37,7 @@ Z = np.dot(np.c_[np.ones(XX.shape), XX, YY, XX*YY, XX**2, YY**2], C).reshape(X.s
 #def animate(i):
  
 #     '''
-benihana = pd.read_csv('/Users/natalienie/Desktop/benihana2.csv')
+benihana = pd.read_csv('benihana2.csv')
 x =  benihana['advertise'].tolist()
 y = benihana['B_size'].tolist()
 z = benihana['Profit'].tolist()
