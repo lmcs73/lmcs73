@@ -62,11 +62,11 @@ Z = np.dot(np.c_[np.ones(XX.shape), XX, YY, XX*YY, XX**2, YY**2], C).reshape(X.s
 #     ax.scatter(x[:i+1], y[:i+1], z[:i+1])
 #     #fig = plt.figure(figsize=(9,7))
 #     #ax = fig.add_subplot(111, projection='3d')
-     ax.plot_surface(X, Y, Z, norm=LogNorm(), rstride=1, cstride=1, alpha=0.5, cmap=plt.cm.jet)
-     ax.scatter(x, y, z)
-     ax.set_xlabel('advertise')
-     ax.set_ylabel('bar size')
-     ax.set_zlabel('Nightly_profit')
+ax.plot_surface(X, Y, Z, norm=LogNorm(), rstride=1, cstride=1, alpha=0.5, cmap=plt.cm.jet)
+ax.scatter(x, y, z)
+ax.set_xlabel('advertise')
+ax.set_ylabel('bar size')
+ax.set_zlabel('Nightly_profit')
 # 
 # ani = animation.FuncAnimation(fig, animate, interval=60)
 # 
