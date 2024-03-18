@@ -10,8 +10,16 @@ import time
 fig = plt.figure(figsize=(11,9))
 ax = fig.add_subplot(111, projection='3d')
 
-
+# importar ficheiro
 benihana = pd.read_csv('benihana2.csv')
+
+# converter colunas para numérico, quando necessário
+benihana['advertise'] = pd.to_numeric(benihana['advertise'], errors='coerce')
+benihana['B_size'] = pd.to_numeric(benihana['B_size'], errors='coerce')
+benihana['Profit'] = pd.to_numeric(benihana['Profit'], errors='coerce')
+
+# continuando
+
 x =  benihana['advertise'].tolist()
 y = benihana['B_size'].tolist()
 z = benihana['Profit'].tolist()
