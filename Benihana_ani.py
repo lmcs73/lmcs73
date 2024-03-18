@@ -11,7 +11,7 @@ fig = plt.figure(figsize=(11,9))
 ax = fig.add_subplot(111, projection='3d')
 
 
-benihana = pd.read_csv('/Users/natalienie/Desktop/benihana2.csv')
+benihana = pd.read_csv('benihana2.csv')
 x =  benihana['advertise'].tolist()
 y = benihana['B_size'].tolist()
 z = benihana['Profit'].tolist()
