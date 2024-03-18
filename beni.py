@@ -3,7 +3,8 @@ import numpy as np
 from scipy.linalg import lstsq
 
 # Carrega o dataset
-benihana = pd.read_csv('benihana2.csv')
+#benihana = pd.read_csv('benihana2.csv')
+benihana = pd.read_csv('benihana2.csv', encoding='ISO-8859-1')
 
 # Lista de variáveis numéricas
 numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 'Opening']
