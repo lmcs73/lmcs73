@@ -23,7 +23,8 @@ def calcular_lucro(advertise, b_size, coeficientes):
     return coeficientes[0] * advertise + coeficientes[1] * b_size + coeficientes[2]
 
 # Exemplo de uso
-advertise_teste = 5
-b_size_teste = 10
+# input
+advertise_teste = float(input("Advertise Budget: "))
+b_size_teste = float(input("Tamanho do Bar: "))
 lucro_esperado = calcular_lucro(advertise_teste, b_size_teste, C) 
 print(f"Lucro esperado para advertise={advertise_teste} e B_size={b_size_teste}: {lucro_esperado}")
