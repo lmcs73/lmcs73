@@ -2,34 +2,33 @@ import numpy as np
 import pandas as pd
 from scipy.linalg import lstsq
 
-# Carregar dados
+# Assuming your CSV is loaded correctly
+# Sample data is provided for context, so replace 'benihana3.csv' with your actual file path
 benihana = pd.read_csv('benihana3.csv')
 
-# Variáveis explicativas numéricas
+# Numeric and categorical variables are correctly identified
 numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 'Opening']
-
-# Variáveis explicativas categóricas
 categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
 
-# Variável dependente
+# Dependent variable
 y = benihana['Profit']
 
-# Pré-processar variáveis categóricas usando one-hot encoding
+# Pre-process categorical variables using one-hot encoding
 dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
-# Juntar as variáveis numéricas e dummies
+# Concatenate numeric variables and dummies
 X = pd.concat([benihana[numeric_variables], dummies], axis=1)
 
-# Verificar se todas as colunas de X são numéricas, caso contrário, converter para numérico ou tratar
-# Isso é mais uma medida de precaução, dado que a abordagem anterior já deve garantir que X seja totalmente numérico
+# Ensure all columns in X are numeric, convert if necessary
+X = X.apply(pd.to_numeric, errors='coerce')
 
-# Preparar a matriz de design A incluindo um intercepto
+# Prepare the design matrix A including an intercept
 A = np.c_[np.ones(X.shape[0]), X]
 
-# Resolver a regressão linear
+# Solve the linear regression
 C, residuals, rank, s = lstsq(A, y)
 
-# Imprimir os coeficientes encontrados
+# Print the coefficients
 print("Coeficientes:")
 for name, coef in zip(['Intercepto'] + X.columns.tolist(), C):
     print(f"{name}: {coef}")
