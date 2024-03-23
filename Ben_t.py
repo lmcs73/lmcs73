@@ -1,33 +1,30 @@
 import numpy as np
 import pandas as pd
 from scipy.linalg import lstsq
-from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
-# Carregar dados
+# Step 1: Load the dataset
 benihana = pd.read_csv('benihana3.csv')
 
-# Variáveis explicativas numéricas
+# Step 2: Define numeric and categorical variables
 numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 'Opening']
-
-# Variáveis explicativas categóricas
 categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
 
-# Variável dependente
+# Dependent variable
 y = benihana['Profit']
 
-# Pré-processar variáveis categóricas
+# Step 3: One-hot encode categorical variables
 dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
-# Juntar as variáveis numéricas e dummies
+# Step 4: Combine numeric and encoded categorical variables
 X = pd.concat([benihana[numeric_variables], dummies], axis=1)
 
-# Preparar a matriz de design A incluindo um intercepto
+# Step 5: Prepare the design matrix A including an intercept
 A = np.c_[np.ones(X.shape[0]), X]
 
-# Resolver a regressão linear
+# Step 6: Solve the linear regression problem
 C, residuals, rank, s = lstsq(A, y)
 
-# Imprimir os coeficientes encontrados
-print("Coeficientes:")
-for name, coef in zip(['Intercepto'] + X.columns.tolist(), C):
+# Step 7: Print the coefficients
+print("Coefficients:")
+for name, coef in zip(['Intercept'] + X.columns.tolist(), C):
     print(f"{name}: {coef}")
