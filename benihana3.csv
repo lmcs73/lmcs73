@@ -1,578 +1,578 @@
 advertise,B_size,Dining_1,Dining_2,Dining_3,Campaign,Opening,Batching_1,Batching_2,Batching_3,Profit
-0.1,55,60 minutes,60 minutes,60 minutes,Awareness,270,None,None,None,45.13
-1,55,60 minutes,60 minutes,60 minutes,Awareness,270,None,None,None,-282.29
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,55,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,324.19
-0.1,79,50 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,491.36
-0.1,87,50 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 8,500.18
-0.1,87,50 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 8,497.86
-0.1,87,50 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,533.42
-0.1,87,50 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,531.29
-0.1,87,49 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,534.35
-0.1,87,51 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,529.97
-0.1,87,54 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,525.09
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,516.81
-0.1,87,50 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,546.81
-0.1,87,50 minutes,45 minutes,50 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,544.22
-0.1,87,50 minutes,45 minutes,55 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,541.87
-0.1,87,50 minutes,45 minutes,70 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,517.22
-0.1,87,50 minutes,45 minutes,60 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,536.35
-0.1,87,45 minutes,45 minutes,60 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,519.34
-0.1,87,47 minutes,45 minutes,60 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,527.29
-0.1,87,47 minutes,60 minutes,60 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,455.73
-0.1,87,47 minutes,50 minutes,60 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,508.09
-0.1,87,47 minutes,50 minutes,75 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,490.78
-0.1,87,47 minutes,50 minutes,70 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,495.47
-0.1,87,47 minutes,47 minutes,70 minutes,Awareness,330,4 share a table,4 share a table,Tables of 8,472.62
-0.1,87,47 minutes,47 minutes,70 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 8,485.06
-0.1,87,47 minutes,47 minutes,70 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,503.72
-0.1,87,47 minutes,47 minutes,70 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,495.93
-0.1,87,47 minutes,47 minutes,70 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,495.27
-2.1,55,47 minutes,70 minutes,75 minutes,Happy Hour,330,Tables of 4 to 8,4 share a table,None,128.05
-0.1,87,72 minutes,45 minutes,51 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,501.28
-0.1,87,72 minutes,45 minutes,52 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,500.35
-0.1,87,72 minutes,45 minutes,53 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,498.81
-0.1,87,72 minutes,45 minutes,54 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,496.13
-0.1,87,72 minutes,45 minutes,55 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,495.66
-0.1,87,72 minutes,45 minutes,50 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,508.52
-0.1,87,72 minutes,45 minutes,48 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,506.47
-0.1,87,72 minutes,45 minutes,47 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,505.44
-0.1,87,72 minutes,46 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,503.06
-0.1,87,73 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,500.61
-0.1,87,72 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,505.12
-0.1,87,71 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,502.68
-0.1,87,70 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,502.49
-0.1,87,75 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,493.82
-0.1,87,65 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,499.28
-0.1,87,64 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,499.12
-0.1,87,64 minutes,45 minutes,46 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,495.91
-0.1,87,64 minutes,46 minutes,46 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,493.72
-0.1,87,62 minutes,46 minutes,46 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,490.94
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,492.04
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,492.04
-0.1,87,60 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,490
-0.1,87,60 minutes,60 minutes,60 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,442.21
-0.1,87,60 minutes,60 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,471.76
-0.1,87,45 minutes,60 minutes,75 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,380
-0.1,87,45 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,469.11
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,503.16
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,None,499.97
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,511.81
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,513.06
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,471.97
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,535.02
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,529.64
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,512.85
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 8,518.76
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,507.46
-0.1,87,64 minutes,46 minutes,46 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,492.92
-0.1,87,64 minutes,46 minutes,46 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.23
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,509.54
-0.1,87,60 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,467.11
-0.1,87,60 minutes,45 minutes,60 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,497.92
-0.1,87,60 minutes,60 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,378.11
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,512.85
-0.1,87,45 minutes,60 minutes,75 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,329.77
-0.1,87,45 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,497.31
-0.1,79,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,475.85
-0.1,79,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,476.91
-0.1,79,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,478.56
-0.1,79,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 8,490.63
-0.1,15,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 8,121.99
-0.1,15,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,None,18.05
-0.1,63,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,392.05
-0.1,71,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,442.36
-0.1,79,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,490.17
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,4 share a table,478.1
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,521.49
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 8,506.32
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,None,435.09
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,4 share a table,500.16
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 4 to 8,510.79
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,516.81
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 4 to 8,None,473.95
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,4 share a table,470.42
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 4 to 8,474.14
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 8,475.08
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,None,479.7
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,None,4 share a table,421.33
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,None,Tables of 4 to 8,458.72
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,None,Tables of 8,457.07
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,None,479.7
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,None,None,363.53
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,4 share a table,4 share a table,474.73
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,4 share a table,Tables of 4 to 8,511.55
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,4 share a table,Tables of 8,500.55
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,4 share a table,None,432.64
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 8,506.32
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,None,435.09
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,4 share a table,502.17
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,507.43
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.38
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,None,475.16
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,4 share a table,515.22
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,Tables of 8,536.31
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,None,455.93
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,517.63
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,528.31
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,523.13
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,None,492.03
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,4 share a table,4 share a table,447.06
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,4 share a table,Tables of 4 to 8,484.37
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,4 share a table,Tables of 8,476.96
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,4 share a table,None,410.32
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,4 share a table,480.07
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,Tables of 4 to 8,503.4
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,Tables of 8,499.2
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,None,461.04
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,4 share a table,474.63
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.11
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,471.44
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,478.44
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,None,4 share a table,429.21
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,None,Tables of 4 to 8,463.97
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,None,Tables of 8,463.11
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,None,None,365.39
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,485.4
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,480.17
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,476.74
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,None,488.97
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,None,4 share a table,424.52
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,None,Tables of 4 to 8,474.92
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,None,Tables of 8,464.48
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,None,None,370.99
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,4 share a table,469.87
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,477.96
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 8,478.71
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,4 share a table,413.17
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,Tables of 4 to 8,461.09
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,Tables of 8,453.06
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,4 share a table,None,410.32
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,None,461.04
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,None,479.4
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,None,479.4
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,None,349.09
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,528.31
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,517.63
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,4 share a table,485.4
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,4 share a table,4 share a table,515.22
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,4 share a table,478.1
-0.2,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,453.94
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.11
-0,87,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,437.76
-0.1,31,45 minutes,60 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,258.5
-0.1,31,45 minutes,60 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,276.9
-0.1,31,45 minutes,45 minutes,45 minutes,Awareness,270,Tables of 8,Tables of 8,Tables of 8,194.96
-0.1,31,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,296.57
-2.1,71,47 minutes,45 minutes,67 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,637.86
-1.6,79,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,599.25
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,4 share a table,4 share a table,Tables of 8,365.32
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,508.33
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,None,581.49
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.97
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,459.16
-2.2,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.41
-2,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.58
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,48 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.79
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
-2.1,63,46 minutes,46 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.49
-2.1,63,46 minutes,45 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.66
-2.1,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.1,63,45 minutes,45 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.85
-2.1,63,45 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.79
-2.1,63,45 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.65
-2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,610.96
-2.2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.36
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.2,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,565.13
-2,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,550.3
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,579.05
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,4 share a table,562.55
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,508.93
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,562.15
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,None,Tables of 8,None,419.71
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,488.41
-2.1,31,50 minutes,50 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,565.58
-2.1,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,55 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,50 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,51 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.26
-2.1,31,50 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
-2.1,31,49 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.04
-2.1,31,48 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.98
-2.1,31,47 minutes,46 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.43
-2.1,31,47 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.94
-2.1,31,48 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.98
-2.1,31,60 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,549.39
-2.1,31,45 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
-2.1,31,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
-2.1,31,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
-2.1,31,45 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
-2.1,31,45 minutes,45 minutes,47 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
-2.1,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.94
-2.1,63,47 minutes,45 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.9
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,47 minutes,46 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.06
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,48 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.79
-2.1,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
-2.1,63,46 minutes,46 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.49
-2.1,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
-2.2,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,612.67
-2,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,611.35
-2.1,63,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.36
-2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,610.96
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,4 share a table,4 share a table,486.5
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,4 share a table,Tables of 8,537.97
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 8,590.71
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,None,Tables of 8,420.77
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,4 share a table,Tables of 8,Tables of 8,537.29
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 8,598.24
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,None,Tables of 8,Tables of 8,374.64
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,626.16
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.61
-2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,600.9
-2.2,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.73
-2.1,63,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.61
-2.1,63,45 minutes,45 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.54
-2.1,63,45 minutes,45 minutes,73 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.47
-2.1,63,45 minutes,45 minutes,72 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.4
-2.1,63,45 minutes,45 minutes,71 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.33
-2.1,63,45 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.27
-2.1,63,45 minutes,45 minutes,69 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.19
-2.1,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.12
-2,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,603.17
-2.1,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.12
-2.2,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.23
-2.2,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,577.84
-2.2,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.23
-2.2,63,45 minutes,45 minutes,68 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,597.16
-2,79,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,503.75
-2,79,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,547.64
-2,79,45 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,402.01
-2.8,63,47 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,453.34
-2.8,39,47 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,511.01
-2.8,39,47 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,511.01
-2.8,39,60 minutes,60 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,429.04
-2.2,63,60 minutes,60 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,425.1
-2.8,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
-2.9,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,631.81
-2.5,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,629.74
-2.7,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,627.2
-2.8,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
-2.8,63,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,627.41
-2.8,47,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.38
-2.8,55,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
-0.9,39,60 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,404.54
-0.9,15,60 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,343.83
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,362.48
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,361.99
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,321.58
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,362.48
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,361.99
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,Tables of 8,None,358.98
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,123.98
-0.8,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,113.6
-0.9,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,123.98
-1,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,107.36
-2.3,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,51.9
-0.1,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,177.52
-0.1,15,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,None,18.05
-0.1,15,65 minutes,45 minutes,65 minutes,Awareness,330,None,None,None,-77.97
-0.1,79,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,477.3
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.99
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,506.05
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.99
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,None,Tables of 4 to 8,Tables of 8,495.85
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,469.17
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,508.31
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,512.56
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,508.39
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,491.71
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-0.1,55,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,338.35
-0.1,15,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,208.34
-0.1,79,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,467.46
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-0.2,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,457.87
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-2,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,144.74
-2,87,65 minutes,45 minutes,65 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-21.32
-2.4,87,65 minutes,45 minutes,65 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-157.85
-0.1,87,65 minutes,45 minutes,65 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,433.85
-1.1,87,65 minutes,45 minutes,65 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,286.11
-1.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,388.76
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-0.1,87,65 minutes,46 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,501.57
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-0.1,87,64 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,496.23
-0.1,87,66 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,502.54
-0.1,87,70 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,495.16
-0.1,87,65 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
-0.1,87,60 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.52
-0.1,87,60 minutes,45 minutes,66 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,472.69
-0.1,87,60 minutes,45 minutes,67 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.39
-0.1,87,60 minutes,45 minutes,68 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.02
-0.1,87,60 minutes,45 minutes,69 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,470.75
-0.1,87,60 minutes,45 minutes,70 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,469.16
-0.1,87,60 minutes,45 minutes,65 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.52
-0.1,87,60 minutes,45 minutes,64 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,472.85
-0.1,87,60 minutes,45 minutes,75 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,468.22
-0.1,87,75 minutes,45 minutes,75 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,460.12
-1,87,60 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,351.84
-2.8,87,60 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-152.14
-0.1,87,60 minutes,45 minutes,60 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,476.87
-2,87,60 minutes,45 minutes,60 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,216.39
-2.3,55,60 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,390.52
-0.1,87,62 minutes,45 minutes,75 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,485.29
-0.1,87,62 minutes,46 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,537.36
-0.1,87,64 minutes,46 minutes,46 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.23
-0.1,87,60 minutes,46 minutes,46 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.63
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,62 minutes,46 minutes,46 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,538.39
-0.1,87,62 minutes,45 minutes,46 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,543.29
-0.1,87,62 minutes,46 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,537.36
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,79,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,468.22
-0.1,15,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,198.45
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-4,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,-468.07
-0,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,483.99
-0.2,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,479.27
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,270,None,Tables of 8,Tables of 4 to 8,387.39
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,62 minutes,45 minutes,45 minutes,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,437.97
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,63 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,519.98
-0.1,87,62 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
-0.1,87,61 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,531.12
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,87,65 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,517.11
-0.1,87,70 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.11
-0.1,87,75 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,500.82
-0.1,87,45 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,477.96
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,87,60 minutes,45 minutes,75 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,478.96
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,71,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,401.2
-0.1,79,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,460.64
-0.1,15,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,205.15
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 4 to 8,Tables of 4 to 8,516.67
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,4 share a table,495.66
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 8,514.95
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,None,464.76
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 8,514.95
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,None,Tables of 8,391.64
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,None,Tables of 8,Tables of 8,514.95
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,507.46
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 8,501.25
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,4 share a table,427.04
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,4 share a table,Tables of 8,469.39
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,Tables of 8,501.25
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,474.51
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,472.98
-0.1,79,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,447.52
-0.1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,472.98
-0.2,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,443.18
-0.4,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,426
-1,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,399.91
-0,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,453.76
-4,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,-540.36
-4,87,60 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,-743.22
-4,87,60 minutes,45 minutes,45 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,-540.36
-4,87,60 minutes,45 minutes,75 minutes,Awareness,330,Tables of 4 to 8,Tables of 8,None,-690.44
-2.1,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.1
-2.2,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,582.89
-2.1,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.1
-2.5,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,561.44
-2.8,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,525.75
-2,79,45 minutes,47 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,575.04
-2.8,55,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,646.26
-2.8,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,642.52
-2.7,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.66
-2.6,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,629.27
-2.9,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.84
-2.5,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,621.29
-3,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,627.53
-3.8,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,542.58
-3.9,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,531.16
-4,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.32
-4,47,45 minutes,45 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.3
-4,47,45 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.23
-4,47,45 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.06
-4,47,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.32
-4,47,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,522.98
-4,23,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,496.97
-4,31,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,513.27
-4,39,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,519.74
-4,47,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,522.98
-4,55,45 minutes,45 minutes,45 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 8,167.12
-4,55,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,495.54
-4,87,60 minutes,45 minutes,45 minutes,Awareness,330,4 share a table,Tables of 8,None,-616.72
-4,87,60 minutes,45 minutes,75 minutes,Awareness,330,4 share a table,Tables of 8,None,-773.25
-4,87,60 minutes,45 minutes,45 minutes,Awareness,270,4 share a table,Tables of 8,None,-908.01
-4,87,60 minutes,45 minutes,75 minutes,Awareness,330,4 share a table,Tables of 8,None,-773.25
-2,79,75 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,36.58
-4,55,75 minutes,75 minutes,45 minutes,Happy Hour,330,Tables of 4 to 8,4 share a table,4 share a table,-802.21
-4,55,75 minutes,75 minutes,45 minutes,Happy Hour,330,None,None,None,-1259.26
-4,87,75 minutes,75 minutes,45 minutes,Happy Hour,330,None,None,None,-1510.58
-4,15,75 minutes,75 minutes,45 minutes,Happy Hour,330,None,None,None,-1244.42
-4,55,75 minutes,75 minutes,45 minutes,Happy Hour,330,None,None,None,-1259.26
-4,55,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,-613.66
-4,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,-452.2
-2.8,15,45 minutes,45 minutes,45 minutes,Awareness,330,None,None,None,-388.54
-2.8,15,45 minutes,45 minutes,45 minutes,Happy Hour,330,None,None,None,-55.4
-2.8,15,75 minutes,45 minutes,75 minutes,Happy Hour,330,None,None,None,-683.55
-2.8,15,75 minutes,45 minutes,75 minutes,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-507.95
-2.8,47,75 minutes,45 minutes,75 minutes,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-613.17
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,635.52
-2.8,55,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.34
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,55,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.17
-2.8,63,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,601.79
-2.8,71,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,536.13
-2.8,79,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,421.37
-2.8,87,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,253.94
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,47,47 minutes,45 minutes,75 minutes,Awareness,270,Tables of 8,Tables of 8,Tables of 4 to 8,44.59
-2.8,47,47 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,392.62
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,501.87
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,571.04
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,254.96
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,None,614.93
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,None,Tables of 4 to 8,323.62
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,4 share a table,Tables of 4 to 8,471.07
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,556.43
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,623.59
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,635.52
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,623.59
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,55,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.17
-2.8,47,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
-2.8,39,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,619.57
-2.8,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
-2.8,23,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.64
-2.8,15,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,545.88
-2.8,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
-2.9,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,596.57
-2.8,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
-2.7,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,597.51
-2.6,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,593.9
-2.5,31,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,49 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.3
-2.5,31,46 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.06
-2.5,31,48 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.19
-2.5,31,47 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.13
-2.5,31,46 minutes,46 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.29
-2.5,31,47 minutes,46 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.69
-2.5,31,47 minutes,48 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,580.97
-2.5,31,47 minutes,47 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.29
-2.5,31,47 minutes,47 minutes,73 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
-2.5,31,47 minutes,47 minutes,74 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
-2.5,31,47 minutes,47 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
-2.5,31,47 minutes,47 minutes,69 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
-2.5,31,47 minutes,47 minutes,48 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.27
-2.5,31,47 minutes,47 minutes,47 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.27
-2.5,31,47 minutes,47 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.29
-2.5,31,55 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,573.38
-2.5,31,50 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
-2.5,31,45 minutes,50 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,571.5
-2.5,31,50 minutes,70 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.69
-2.5,31,50 minutes,50 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,569
-2.5,31,50 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
-2.5,31,60 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464.05
-2.5,31,60 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,531.7
-2.5,31,45 minutes,45 minutes,75 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,273.1
-2.5,31,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,70 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,65 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,55 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,54 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,51 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,45 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,46 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,47 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,48 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,49 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,45 minutes,53 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,45 minutes,49 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,573.47
-2.5,31,45 minutes,50 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,571.43
-2.5,31,70 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,395.71
-2.5,31,50 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
-2.5,31,45 minutes,45 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
-2.5,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464
-2.4,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,458.21
-2.6,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,450.89
-2.7,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,436.3
-2.8,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
-2.9,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,412.54
-3,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,401.71
-2.5,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464
-2,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,455.86
-1.5,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,453.66
-1,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,360.34
-0.5,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,380.43
-0,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,392.27
-2.8,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
-2.8,31,60 minutes,60 minutes,50 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,16.62
-2.8,31,60 minutes,60 minutes,50 minutes,Awareness,210,Tables of 8,Tables of 8,Tables of 4 to 8,-835.97
-2.8,31,60 minutes,60 minutes,50 minutes,Awareness,270,Tables of 8,Tables of 8,Tables of 4 to 8,-293.65
-2.8,31,60 minutes,60 minutes,50 minutes,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,16.62
-2.8,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
-2.8,39,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,431.4
-2.8,87,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,-87.41
-2.8,39,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,431.4
-2.8,31,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
-2.8,23,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,438.59
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,407.81
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-29.36
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,151.95
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,285.67
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,None,Tables of 4 to 8,-47.31
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,194.13
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,403.15
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,93.31
-2.8,15,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,403.15
-2.8,55,60 minutes,60 minutes,50 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,370.78
-2.8,55,60 minutes,60 minutes,60 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,371.11
-2.8,55,60 minutes,60 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,371.46
-2.8,55,45 minutes,45 minutes,75 minutes,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,646.26
+0.1,55,60,60,60,Awareness,270,None,None,None,45.13
+1,55,60,60,60,Awareness,270,None,None,None,-282.29
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,55,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,324.19
+0.1,79,50,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,491.36
+0.1,87,50,45,45,Awareness,330,4 share a table,4 share a table,Tables of 8,500.18
+0.1,87,50,45,45,Awareness,330,4 share a table,Tables of 8,Tables of 8,497.86
+0.1,87,50,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,533.42
+0.1,87,50,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,531.29
+0.1,87,49,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,534.35
+0.1,87,51,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,529.97
+0.1,87,54,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,525.09
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,516.81
+0.1,87,50,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,546.81
+0.1,87,50,45,50,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,544.22
+0.1,87,50,45,55,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,541.87
+0.1,87,50,45,70,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,517.22
+0.1,87,50,45,60,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,536.35
+0.1,87,45,45,60,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,519.34
+0.1,87,47,45,60,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,527.29
+0.1,87,47,60,60,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,455.73
+0.1,87,47,50,60,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,508.09
+0.1,87,47,50,75,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,490.78
+0.1,87,47,50,70,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,495.47
+0.1,87,47,47,70,Awareness,330,4 share a table,4 share a table,Tables of 8,472.62
+0.1,87,47,47,70,Awareness,330,4 share a table,Tables of 8,Tables of 8,485.06
+0.1,87,47,47,70,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,503.72
+0.1,87,47,47,70,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,495.93
+0.1,87,47,47,70,Awareness,330,Tables of 8,Tables of 8,Tables of 8,495.27
+2.1,55,47,70,75,Happy Hour,330,Tables of 4 to 8,4 share a table,None,128.05
+0.1,87,72,45,51,Awareness,330,Tables of 8,Tables of 8,4 share a table,501.28
+0.1,87,72,45,52,Awareness,330,Tables of 8,Tables of 8,4 share a table,500.35
+0.1,87,72,45,53,Awareness,330,Tables of 8,Tables of 8,4 share a table,498.81
+0.1,87,72,45,54,Awareness,330,Tables of 8,Tables of 8,4 share a table,496.13
+0.1,87,72,45,55,Awareness,330,Tables of 8,Tables of 8,4 share a table,495.66
+0.1,87,72,45,50,Awareness,330,Tables of 8,Tables of 8,4 share a table,508.52
+0.1,87,72,45,48,Awareness,330,Tables of 8,Tables of 8,4 share a table,506.47
+0.1,87,72,45,47,Awareness,330,Tables of 8,Tables of 8,4 share a table,505.44
+0.1,87,72,46,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,503.06
+0.1,87,73,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,500.61
+0.1,87,72,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,505.12
+0.1,87,71,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,502.68
+0.1,87,70,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,502.49
+0.1,87,75,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,493.82
+0.1,87,65,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,499.28
+0.1,87,64,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,499.12
+0.1,87,64,45,46,Awareness,330,Tables of 8,Tables of 8,4 share a table,495.91
+0.1,87,64,46,46,Awareness,330,Tables of 8,Tables of 8,4 share a table,493.72
+0.1,87,62,46,46,Awareness,330,Tables of 8,Tables of 8,4 share a table,490.94
+0.1,87,62,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,492.04
+0.1,87,62,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,492.04
+0.1,87,60,45,75,Awareness,330,Tables of 8,Tables of 8,4 share a table,490
+0.1,87,60,60,60,Awareness,330,Tables of 8,Tables of 8,4 share a table,442.21
+0.1,87,60,60,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,471.76
+0.1,87,45,60,75,Awareness,330,Tables of 8,Tables of 8,4 share a table,380
+0.1,87,45,45,75,Awareness,330,Tables of 8,Tables of 8,4 share a table,469.11
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,503.16
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 8,None,499.97
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
+0.1,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,511.81
+0.1,87,60,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,513.06
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
+0.1,87,60,45,45,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,471.97
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,535.02
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,529.64
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,512.85
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,4 share a table,487.62
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 8,518.76
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,507.46
+0.1,87,64,46,46,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,492.92
+0.1,87,64,46,46,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.23
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,62,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,509.54
+0.1,87,60,45,75,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,467.11
+0.1,87,60,45,60,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,497.92
+0.1,87,60,60,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,378.11
+0.1,87,60,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,512.85
+0.1,87,45,60,75,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,329.77
+0.1,87,45,45,75,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,497.31
+0.1,79,45,45,45,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,475.85
+0.1,79,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,476.91
+0.1,79,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,478.56
+0.1,79,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 8,490.63
+0.1,15,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 8,121.99
+0.1,15,45,45,45,Awareness,330,None,None,None,18.05
+0.1,63,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,392.05
+0.1,71,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,442.36
+0.1,79,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,490.17
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,4 share a table,478.1
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,Tables of 4 to 8,521.49
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,Tables of 8,506.32
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,None,435.09
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 4 to 8,4 share a table,500.16
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 4 to 8,510.79
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 4 to 8,Tables of 8,516.81
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 4 to 8,None,473.95
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 8,4 share a table,470.42
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 8,Tables of 4 to 8,474.14
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 8,Tables of 8,475.08
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 8,None,479.7
+0.1,87,45,45,45,Awareness,330,4 share a table,None,4 share a table,421.33
+0.1,87,45,45,45,Awareness,330,4 share a table,None,Tables of 4 to 8,458.72
+0.1,87,45,45,45,Awareness,330,4 share a table,None,Tables of 8,457.07
+0.1,87,45,45,45,Awareness,330,4 share a table,Tables of 8,None,479.7
+0.1,87,45,45,45,Awareness,330,4 share a table,None,None,363.53
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,4 share a table,4 share a table,474.73
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,4 share a table,Tables of 4 to 8,511.55
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,4 share a table,Tables of 8,500.55
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,4 share a table,None,432.64
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,Tables of 8,506.32
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,None,435.09
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,4 share a table,502.17
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,507.43
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.38
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,None,475.16
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,4 share a table,515.22
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 4 to 8,540.9
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,Tables of 8,536.31
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,None,455.93
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,517.63
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,528.31
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,523.13
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,None,492.03
+0.1,87,45,45,45,Awareness,330,None,4 share a table,4 share a table,447.06
+0.1,87,45,45,45,Awareness,330,None,4 share a table,Tables of 4 to 8,484.37
+0.1,87,45,45,45,Awareness,330,None,4 share a table,Tables of 8,476.96
+0.1,87,45,45,45,Awareness,330,None,4 share a table,None,410.32
+0.1,87,45,45,45,Awareness,330,None,Tables of 4 to 8,4 share a table,480.07
+0.1,87,45,45,45,Awareness,330,None,Tables of 4 to 8,Tables of 4 to 8,503.4
+0.1,87,45,45,45,Awareness,330,None,Tables of 4 to 8,Tables of 8,499.2
+0.1,87,45,45,45,Awareness,330,None,Tables of 4 to 8,None,461.04
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,4 share a table,474.63
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.11
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,471.44
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,478.44
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,None,4 share a table,429.21
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,None,Tables of 4 to 8,463.97
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,None,Tables of 8,463.11
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,None,None,365.39
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,485.4
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,480.17
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,476.74
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 8,None,488.97
+0.1,87,45,45,45,Awareness,330,Tables of 8,None,4 share a table,424.52
+0.1,87,45,45,45,Awareness,330,Tables of 8,None,Tables of 4 to 8,474.92
+0.1,87,45,45,45,Awareness,330,Tables of 8,None,Tables of 8,464.48
+0.1,87,45,45,45,Awareness,330,Tables of 8,None,None,370.99
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,4 share a table,469.87
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,477.96
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,Tables of 8,478.71
+0.1,87,45,45,45,Awareness,330,None,None,4 share a table,413.17
+0.1,87,45,45,45,Awareness,330,None,None,Tables of 4 to 8,461.09
+0.1,87,45,45,45,Awareness,330,None,None,Tables of 8,453.06
+0.1,87,45,45,45,Awareness,330,None,4 share a table,None,410.32
+0.1,87,45,45,45,Awareness,330,None,Tables of 4 to 8,None,461.04
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,None,479.4
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,None,479.4
+0.1,87,45,45,45,Awareness,330,None,None,None,349.09
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,528.31
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,517.63
+0.1,87,45,45,45,Awareness,330,Tables of 8,Tables of 8,4 share a table,485.4
+0.1,87,45,45,45,Awareness,330,Tables of 8,4 share a table,4 share a table,515.22
+0.1,87,45,45,45,Awareness,330,4 share a table,4 share a table,4 share a table,478.1
+0.2,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,453.94
+0.1,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.11
+0,87,45,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,437.76
+0.1,31,45,60,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,258.5
+0.1,31,45,60,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,276.9
+0.1,31,45,45,45,Awareness,270,Tables of 8,Tables of 8,Tables of 8,194.96
+0.1,31,45,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,296.57
+2.1,71,47,45,67,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,637.86
+1.6,79,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,599.25
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,47,45,75,Happy Hour,330,4 share a table,4 share a table,Tables of 8,365.32
+2.1,63,47,45,75,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,508.33
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,None,581.49
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.97
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,459.16
+2.2,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.41
+2,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.58
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,48,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.79
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
+2.1,63,46,46,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.49
+2.1,63,46,45,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.66
+2.1,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.1,63,45,45,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.85
+2.1,63,45,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.79
+2.1,63,45,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.65
+2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,610.96
+2.2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.36
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.1,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.2,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,565.13
+2,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,550.3
+2.1,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,579.05
+2.1,31,50,45,50,Happy Hour,330,Tables of 4 to 8,Tables of 8,4 share a table,562.55
+2.1,31,50,45,50,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,508.93
+2.1,31,50,45,50,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,562.15
+2.1,31,50,45,50,Happy Hour,330,None,Tables of 8,None,419.71
+2.1,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,488.41
+2.1,31,50,50,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,565.58
+2.1,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,55,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,50,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,51,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.26
+2.1,31,50,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.83
+2.1,31,49,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,579.04
+2.1,31,48,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.98
+2.1,31,47,46,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.43
+2.1,31,47,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.94
+2.1,31,48,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.98
+2.1,31,60,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,549.39
+2.1,31,45,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
+2.1,31,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
+2.1,31,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
+2.1,31,45,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
+2.1,31,45,45,47,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.9
+2.1,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,578.94
+2.1,63,47,45,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.9
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,47,46,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.06
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,48,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.79
+2.1,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.91
+2.1,63,46,46,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.49
+2.1,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
+2.2,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,612.67
+2,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,611.35
+2.1,63,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.68
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,608.36
+2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,610.96
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,4 share a table,4 share a table,486.5
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,4 share a table,Tables of 8,537.97
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 8,590.71
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,None,Tables of 8,420.77
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.1,63,45,45,75,Happy Hour,330,4 share a table,Tables of 8,Tables of 8,537.29
+2.1,63,45,45,75,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 8,598.24
+2.1,63,45,45,75,Happy Hour,330,None,Tables of 8,Tables of 8,374.64
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,632.86
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,626.16
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.61
+2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,600.9
+2.2,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.73
+2.1,63,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.61
+2.1,63,45,45,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.54
+2.1,63,45,45,73,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.47
+2.1,63,45,45,72,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.4
+2.1,63,45,45,71,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.33
+2.1,63,45,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.27
+2.1,63,45,45,69,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.19
+2.1,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.12
+2,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,603.17
+2.1,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.12
+2.2,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.23
+2.2,63,45,45,68,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,577.84
+2.2,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,605.23
+2.2,63,45,45,68,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,597.16
+2,79,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,503.75
+2,79,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,547.64
+2,79,45,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,402.01
+2.8,63,47,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,453.34
+2.8,39,47,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,511.01
+2.8,39,47,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,511.01
+2.8,39,60,60,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,429.04
+2.2,63,60,60,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,425.1
+2.8,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
+2.9,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,631.81
+2.5,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,629.74
+2.7,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,627.2
+2.8,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
+2.8,63,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,627.41
+2.8,47,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.38
+2.8,55,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,642.72
+0.9,39,60,45,60,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,404.54
+0.9,15,60,45,60,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,343.83
+0.9,15,45,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,362.48
+0.9,15,45,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,361.99
+0.9,15,45,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,321.58
+0.9,15,45,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,362.48
+0.9,15,45,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,361.99
+0.9,15,45,45,45,Happy Hour,330,None,Tables of 8,None,358.98
+0.9,15,45,45,45,Happy Hour,330,None,None,None,123.98
+0.8,15,45,45,45,Happy Hour,330,None,None,None,113.6
+0.9,15,45,45,45,Happy Hour,330,None,None,None,123.98
+1,15,45,45,45,Happy Hour,330,None,None,None,107.36
+2.3,15,45,45,45,Happy Hour,330,None,None,None,51.9
+0.1,15,45,45,45,Happy Hour,330,None,None,None,177.52
+0.1,15,45,45,45,Awareness,330,None,None,None,18.05
+0.1,15,65,45,65,Awareness,330,None,None,None,-77.97
+0.1,79,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,477.3
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.99
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,506.05
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 8,515.99
+0.1,87,65,45,65,Awareness,330,None,Tables of 4 to 8,Tables of 8,495.85
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,4 share a table,469.17
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,508.31
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 4 to 8,Tables of 8,522.6
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 8,Tables of 8,512.56
+0.1,87,65,45,65,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,508.39
+0.1,87,65,45,65,Awareness,330,None,Tables of 8,Tables of 4 to 8,491.71
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+0.1,55,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,338.35
+0.1,15,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,208.34
+0.1,79,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,467.46
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+0.2,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,457.87
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+2,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,144.74
+2,87,65,45,65,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-21.32
+2.4,87,65,45,65,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-157.85
+0.1,87,65,45,65,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,433.85
+1.1,87,65,45,65,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,286.11
+1.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,388.76
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+0.1,87,65,46,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,501.57
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+0.1,87,64,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,496.23
+0.1,87,66,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,502.54
+0.1,87,70,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,495.16
+0.1,87,65,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,505.66
+0.1,87,60,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.52
+0.1,87,60,45,66,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,472.69
+0.1,87,60,45,67,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.39
+0.1,87,60,45,68,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.02
+0.1,87,60,45,69,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,470.75
+0.1,87,60,45,70,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,469.16
+0.1,87,60,45,65,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,473.52
+0.1,87,60,45,64,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,472.85
+0.1,87,60,45,75,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,468.22
+0.1,87,75,45,75,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,460.12
+1,87,60,45,60,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,351.84
+2.8,87,60,45,60,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,-152.14
+0.1,87,60,45,60,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,476.87
+2,87,60,45,60,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,216.39
+2.3,55,60,45,75,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,390.52
+0.1,87,62,45,75,Awareness,330,None,Tables of 8,Tables of 4 to 8,485.29
+0.1,87,62,46,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,537.36
+0.1,87,64,46,46,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.23
+0.1,87,60,46,46,Awareness,330,None,Tables of 8,Tables of 4 to 8,523.63
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,62,46,46,Awareness,330,None,Tables of 8,Tables of 4 to 8,538.39
+0.1,87,62,45,46,Awareness,330,None,Tables of 8,Tables of 4 to 8,543.29
+0.1,87,62,46,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,537.36
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,79,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,468.22
+0.1,15,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,198.45
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+4,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,-468.07
+0,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,483.99
+0.2,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,479.27
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,62,45,45,Awareness,270,None,Tables of 8,Tables of 4 to 8,387.39
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,62,45,45,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,437.97
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,63,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,519.98
+0.1,87,62,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,547.14
+0.1,87,61,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,531.12
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,87,65,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,517.11
+0.1,87,70,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.11
+0.1,87,75,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,500.82
+0.1,87,45,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,477.96
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,87,60,45,75,Awareness,330,None,Tables of 8,Tables of 4 to 8,478.96
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,71,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,401.2
+0.1,79,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,460.64
+0.1,15,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,205.15
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,87,60,45,45,Awareness,330,None,Tables of 4 to 8,Tables of 4 to 8,516.67
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,4 share a table,495.66
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 4 to 8,520.66
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 8,514.95
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,None,464.76
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 8,514.95
+0.1,87,60,45,45,Awareness,330,None,None,Tables of 8,391.64
+0.1,87,60,45,45,Awareness,330,None,Tables of 8,Tables of 8,514.95
+0.1,87,60,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,507.46
+0.1,87,60,45,45,Awareness,330,4 share a table,Tables of 8,Tables of 8,501.25
+0.1,87,60,45,45,Awareness,330,4 share a table,4 share a table,4 share a table,427.04
+0.1,87,60,45,45,Awareness,330,4 share a table,4 share a table,Tables of 8,469.39
+0.1,87,60,45,45,Awareness,330,4 share a table,Tables of 8,Tables of 8,501.25
+0.1,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,Tables of 8,474.51
+0.1,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,472.98
+0.1,79,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,447.52
+0.1,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,472.98
+0.2,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,443.18
+0.4,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,426
+1,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,399.91
+0,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,453.76
+4,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,-540.36
+4,87,60,45,45,Happy Hour,330,Tables of 4 to 8,Tables of 8,None,-743.22
+4,87,60,45,45,Awareness,330,Tables of 4 to 8,Tables of 8,None,-540.36
+4,87,60,45,75,Awareness,330,Tables of 4 to 8,Tables of 8,None,-690.44
+2.1,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.1
+2.2,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,582.89
+2.1,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.1
+2.5,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,561.44
+2.8,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,525.75
+2,79,45,47,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,575.04
+2.8,55,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,646.26
+2.8,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,642.52
+2.7,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,630.66
+2.6,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,629.27
+2.9,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,626.84
+2.5,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,621.29
+3,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,627.53
+3.8,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,542.58
+3.9,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,531.16
+4,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.32
+4,47,45,45,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.3
+4,47,45,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.23
+4,47,45,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.06
+4,47,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,523.32
+4,47,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,522.98
+4,23,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,496.97
+4,31,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,513.27
+4,39,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,519.74
+4,47,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,522.98
+4,55,45,45,45,Awareness,330,Tables of 8,Tables of 8,Tables of 8,167.12
+4,55,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,495.54
+4,87,60,45,45,Awareness,330,4 share a table,Tables of 8,None,-616.72
+4,87,60,45,75,Awareness,330,4 share a table,Tables of 8,None,-773.25
+4,87,60,45,45,Awareness,270,4 share a table,Tables of 8,None,-908.01
+4,87,60,45,75,Awareness,330,4 share a table,Tables of 8,None,-773.25
+2,79,75,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,36.58
+4,55,75,75,45,Happy Hour,330,Tables of 4 to 8,4 share a table,4 share a table,-802.21
+4,55,75,75,45,Happy Hour,330,None,None,None,-1259.26
+4,87,75,75,45,Happy Hour,330,None,None,None,-1510.58
+4,15,75,75,45,Happy Hour,330,None,None,None,-1244.42
+4,55,75,75,45,Happy Hour,330,None,None,None,-1259.26
+4,55,45,45,45,Happy Hour,330,None,None,None,-613.66
+4,15,45,45,45,Happy Hour,330,None,None,None,-452.2
+2.8,15,45,45,45,Awareness,330,None,None,None,-388.54
+2.8,15,45,45,45,Happy Hour,330,None,None,None,-55.4
+2.8,15,75,45,75,Happy Hour,330,None,None,None,-683.55
+2.8,15,75,45,75,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-507.95
+2.8,47,75,45,75,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-613.17
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,635.52
+2.8,55,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,634.34
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,55,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.17
+2.8,63,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,601.79
+2.8,71,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,536.13
+2.8,79,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,421.37
+2.8,87,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,253.94
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,47,47,45,75,Awareness,270,Tables of 8,Tables of 8,Tables of 4 to 8,44.59
+2.8,47,47,45,75,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,392.62
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,47,47,45,75,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,501.87
+2.8,47,47,45,75,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,571.04
+2.8,47,47,45,75,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,254.96
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,None,614.93
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,None,Tables of 4 to 8,323.62
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,4 share a table,Tables of 4 to 8,471.07
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,556.43
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,623.59
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,635.52
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,623.59
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,55,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,626.17
+2.8,47,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,636.48
+2.8,39,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,619.57
+2.8,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
+2.8,23,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,591.64
+2.8,15,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,545.88
+2.8,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
+2.9,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,596.57
+2.8,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,608
+2.7,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,597.51
+2.6,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,593.9
+2.5,31,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,49,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.3
+2.5,31,46,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.06
+2.5,31,48,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.19
+2.5,31,47,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.13
+2.5,31,46,46,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.29
+2.5,31,47,46,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.69
+2.5,31,47,48,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,580.97
+2.5,31,47,47,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.29
+2.5,31,47,47,73,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
+2.5,31,47,47,74,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
+2.5,31,47,47,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
+2.5,31,47,47,69,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.28
+2.5,31,47,47,48,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.27
+2.5,31,47,47,47,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.27
+2.5,31,47,47,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,584.29
+2.5,31,55,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,573.38
+2.5,31,50,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
+2.5,31,45,50,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,571.5
+2.5,31,50,70,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.69
+2.5,31,50,50,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,569
+2.5,31,50,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
+2.5,31,60,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464.05
+2.5,31,60,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,531.7
+2.5,31,45,45,75,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,273.1
+2.5,31,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,70,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,65,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,55,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,54,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,51,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,45,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,46,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,47,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,48,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,49,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,45,53,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,45,49,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,573.47
+2.5,31,45,50,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,571.43
+2.5,31,70,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,395.71
+2.5,31,50,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,585.12
+2.5,31,45,45,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,588.01
+2.5,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464
+2.4,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,458.21
+2.6,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,450.89
+2.7,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,436.3
+2.8,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
+2.9,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,412.54
+3,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,401.71
+2.5,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,464
+2,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,455.86
+1.5,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,453.66
+1,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,360.34
+0.5,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,380.43
+0,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,392.27
+2.8,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
+2.8,31,60,60,50,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,16.62
+2.8,31,60,60,50,Awareness,210,Tables of 8,Tables of 8,Tables of 4 to 8,-835.97
+2.8,31,60,60,50,Awareness,270,Tables of 8,Tables of 8,Tables of 4 to 8,-293.65
+2.8,31,60,60,50,Awareness,330,Tables of 8,Tables of 8,Tables of 4 to 8,16.62
+2.8,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
+2.8,39,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,431.4
+2.8,87,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,-87.41
+2.8,39,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,431.4
+2.8,31,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,439.52
+2.8,23,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,438.59
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,4 share a table,407.81
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
+2.8,15,60,60,50,Happy Hour,330,None,Tables of 8,Tables of 4 to 8,-29.36
+2.8,15,60,60,50,Happy Hour,330,4 share a table,Tables of 8,Tables of 4 to 8,151.95
+2.8,15,60,60,50,Happy Hour,330,Tables of 4 to 8,Tables of 8,Tables of 4 to 8,285.67
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,None,Tables of 4 to 8,-47.31
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 4 to 8,Tables of 4 to 8,194.13
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,403.15
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 4 to 8,413.32
+2.8,15,60,60,50,Happy Hour,330,Tables of 4 to 8,Tables of 4 to 8,Tables of 4 to 8,93.31
+2.8,15,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,403.15
+2.8,55,60,60,50,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,370.78
+2.8,55,60,60,60,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,371.11
+2.8,55,60,60,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,371.46
+2.8,55,45,45,75,Happy Hour,330,Tables of 8,Tables of 8,Tables of 8,646.26

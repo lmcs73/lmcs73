@@ -6,12 +6,6 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 # Carregar dados
 benihana = pd.read_csv('benihana3.csv')
 
-# Mapeamento dos horários para o equivalente em minutos
-time_mapping = {'5:00 PM': 330, '6:00 PM': 360, '7:00 PM': 420}
-
-# Aplicar o mapeamento ao DataFrame
-benihana['Opening'] = benihana['Opening'].map(time_mapping)
-
 # Variáveis explicativas numéricas
 numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 'Opening']
 
@@ -19,9 +13,9 @@ numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 
 categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
 
 # Variável dependente
-y = benihana['Profit'].astype(float)
+y = benihana['Profit']
 
-# Converter todas as variáveis numéricas para float para evitar erros de tipo
+# Garantir que todas as variáveis numéricas são do tipo float
 for col in numeric_variables:
     benihana[col] = benihana[col].astype(float)
 
