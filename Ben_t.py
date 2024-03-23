@@ -1,45 +1,42 @@
 import numpy as np
 import pandas as pd
 from scipy.linalg import lstsq
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
 # Carregar dados
 benihana = pd.read_csv('benihana3.csv')
 
-# Removendo as strings ' minutes' para converter as colunas para numéricas
-for col in ['Dining_1', 'Dining_2', 'Dining_3']:
-    benihana[col] = benihana[col].str.replace(' minutes', '').astype(int)
+# Mapeamento dos horários para o equivalente em minutos
+time_mapping = {'5:00 PM': 330, '6:00 PM': 360, '7:00 PM': 420}
 
-# Convertendo 'Opening' para um formato de hora decimal
-benihana['Opening'] = pd.to_datetime(benihana['Opening']).dt.hour + pd.to_datetime(benihana['Opening']).dt.minute / 60
+# Aplicar o mapeamento ao DataFrame
+benihana['Opening'] = benihana['Opening'].map(time_mapping)
 
 # Variáveis explicativas numéricas
-numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 'Opening']
+numeric_variables = ['advertise', 'B_size', 'Opening', 'Dining_1', 'Dining_2', 'Dining_3']
 
 # Variáveis explicativas categóricas
-categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
+categorical_variables = [
+    'Campaign', 'Batching_1', 'Batching_2', 'Batching_3'
+]
 
 # Variável dependente
 y = benihana['Profit']
 
-# Processamento de variáveis categóricas com OneHotEncoder
-column_transformer = ColumnTransformer(
-    [('category', OneHotEncoder(handle_unknown='ignore'), categorical_variables)],
-    remainder='passthrough'
-)
+# Pré-processar variáveis categóricas
+# Converter para variáveis dummy
+dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
-# Transformação das colunas com o ColumnTransformer
-X_transformed = column_transformer.fit_transform(benihana)
+# Juntar as variáveis numéricas e dummies
+X = pd.concat([benihana[numeric_variables], dummies], axis=1)
 
 # Preparar a matriz de design A incluindo um intercepto
-A = np.c_[np.ones(X_transformed.shape[0]), X_transformed]
+A = np.c_[np.ones(X.shape[0]), X]
 
 # Resolver a regressão linear
-C, _, _, _ = lstsq(A, y, lapack_driver='gelsy')
+C, _, _, _ = lstsq(A, y)
 
 # Imprimir os coeficientes encontrados
 print("Coeficientes:")
-feature_names = ['Intercepto'] + list(column_transformer.named_transformers_['category'].get_feature_names_out()) + numeric_variables
-for name, coef in zip(feature_names, C):
+for name, coef in zip(['Intercepto'] + X.columns.tolist(), C):
     print(f"{name}: {coef}")
