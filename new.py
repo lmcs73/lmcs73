@@ -11,30 +11,30 @@ coef = {
     'Dining_3': 0.5662834754593359,
     'Opening': 5.100647918877722,
     'Campaign_HappyHour': 202.27043744126092,
-    # Assuming coefficients for batching as placeholders
-    'Batching_1_SemBatch': 0,  # Placeholder
-    'Batching_1_Tablesof4to8': 0,  # Placeholder
-    'Batching_1_Tablesof8': 0,  # Placeholder
-    'Batching_2_SemBatch': 0,  # Placeholder
-    'Batching_2_Tablesof4to8': 0,  # Placeholder
-    'Batching_2_Tablesof8': 0,  # Placeholder
-    'Batching_3_SemBatch': 0,  # Placeholder
-    'Batching_3_Tablesof4to8': 0,  # Placeholder
-    'Batching_3_Tablesof8': 0,  # Placeholder
-    # Placeholder values for batching effects, replace with actual coefficients
+    'Batching_1_SemBatch': 0,  # Base category
+    'Batching_1_4shareatable': 0,  # Adjust these coefficients based on your model
+    'Batching_1_Tablesof8': 0,  # Adjust these coefficients based on your model
+    'Batching_1_Tablesof4to8': 0,  # Adjust these coefficients based on your model
+    'Batching_2_SemBatch': 0,  # Repeat for Batching_2
+    'Batching_2_4shareatable': 0,
+    'Batching_2_Tablesof8': 0,
+    'Batching_2_Tablesof4to8': 0,
+    'Batching_3_SemBatch': 0,  # Repeat for Batching_3
+    'Batching_3_4shareatable': 0,
+    'Batching_3_Tablesof8': 0,
+    'Batching_3_Tablesof4to8': 0,
 }
 
-# Define ranges for variables based on provided constraints
-b_size_range = range(15, 88, 8)  # From 15 to 87 in intervals of 8
-dining_range = range(45, 76)  # From 45 to 75
-advertise_range = np.arange(0, 4.1, 0.1)  # From 0 to 4 in 0.1 intervals
-opening_values = [210, 270, 330]
+# Variable ranges
+advertise_range = np.arange(0, 4.1, 0.1)
+b_size_range = range(15, 88, 8)
+dining_range = range(45, 76)
+opening_values = [330, 270, 210]
 campaign_types = ['Awareness', 'HappyHour']
-batching_values = ['SemBatch', 'Tablesof4to8', 'Tablesof8']  # Assuming 3 options for simplification
+batching_options = ['SemBatch', '4shareatable', 'Tablesof8', 'Tablesof4to8']
 
-# Function to calculate profit based on a combination of variables
+# Function to calculate profit for a given combination
 def calculate_profit(advertise, b_size, dining_1, dining_2, dining_3, opening, campaign, batching_1, batching_2, batching_3):
-    # Calculate profit using the regression coefficients
     profit = coef['Intercept'] + \
              coef['advertise'] * advertise + \
              coef['B_size'] * b_size + \
@@ -42,34 +42,20 @@ def calculate_profit(advertise, b_size, dining_1, dining_2, dining_3, opening, c
              coef['Dining_2'] * dining_2 + \
              coef['Dining_3'] * dining_3 + \
              coef['Opening'] * opening + \
-             (coef['Campaign_HappyHour'] if campaign == 'HappyHour' else 0)
-
-    # Placeholder for batching effects, assuming they're additive and not interacting
-    profit += coef.get('Batching_1_' + batching_1, 0) + \
-              coef.get('Batching_2_' + batching_2, 0) + \
-              coef.get('Batching_3_' + batching_3, 0)
+             (coef['Campaign_HappyHour'] if campaign == 'HappyHour' else 0) + \
+             coef[f'Batching_1_{batching_1}'] + \
+             coef[f'Batching_2_{batching_2}'] + \
+             coef[f'Batching_3_{batching_3}']
     return profit
 
-# Start the search for the optimal combination
-max_profit = -np.inf
-optimal_combination = {}
+# Iterate over all combinations to find the one with the highest profit
+max_profit = float('-inf')
+best_combination = None
 
-for advertise, b_size, dining_1, dining_2, dining_3, opening, campaign, batching_1, batching_2, batching_3 in itertools.product(
-    advertise_range, b_size_range, dining_range, dining_range, dining_range, opening_values, campaign_types, batching_values, batching_values, batching_values):
-    profit = calculate_profit(advertise, b_size, dining_1, dining_2, dining_3, opening, campaign, batching_1, batching_2, batching_3)
-    if profit > max_profit:
-        max_profit = profit
-        optimal_combination = {
-            'advertise': advertise,
-            'B_size': b_size,
-            'Dining_1': dining_1,
-            'Dining_2': dining_2,
-            'Dining_3': dining_3,
-            'Opening': opening,
-            'Campaign': campaign,
-            'Batching_1': batching_1,
-            'Batching_2': batching_2,
-            'Batching_3': batching_3
-        }
+for combination in itertools.product(advertise_range, b_size_range, dining_range, dining_range, dining_range, opening_values, campaign_types, batching_options, batching_options, batching_options):
+    current_profit = calculate_profit(*combination)
+    if current_profit > max_profit:
+        max_profit = current_profit
+        best_combination = combination
 
-print(f"Optimal combination for maximum profit: {optimal_combination}, with an estimated profit of {max_profit}")
+print(f"Best combination for maximum profit: {best_combination}, with an estimated profit of {max_profit:.2f}")
