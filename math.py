@@ -2,7 +2,7 @@ import pandas as pd
 import statsmodels.api as sm
 
 # Load the dataset
-data = pd.read_csv('benihana3.csv')
+data = pd.read_csv('Benihana3.csv')
 
 # If necessary, convert 'Campaign', 'Batching_1', 'Batching_2', 'Batching_3' into dummy variables
 data = pd.get_dummies(data, columns=['Campaign', 'Batching_1', 'Batching_2', 'Batching_3'], drop_first=True)
