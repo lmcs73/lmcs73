@@ -15,10 +15,12 @@ categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
 y = benihana['Profit']
 
 # Pre-process categorical variables using one-hot encoding
-# We ensure that "4shareatable" is included as a category if it's missing from the CSV.
 for category in categorical_variables:
-    if '4shareatable' not in benihana[category].unique():
-        benihana[category] = pd.Categorical(benihana[category], categories=[...benihana[category].unique(), '4shareatable'])
+    # Make sure all categories including '4shareatable' are considered
+    all_categories = benihana[category].unique().tolist()
+    if '4shareatable' not in all_categories:
+        all_categories.append('4shareatable')
+    benihana[category] = pd.Categorical(benihana[category], categories=all_categories)
 
 dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
