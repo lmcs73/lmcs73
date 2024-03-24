@@ -10,18 +10,17 @@ numeric_variables = ['advertise', 'B_size', 'Dining_1', 'Dining_2', 'Dining_3', 
 
 # Categorical variables for one-hot encoding
 categorical_variables = ['Campaign', 'Batching_1', 'Batching_2', 'Batching_3']
+batching_categories = ['SemBatch', '4shareatable', 'Tablesof8', 'Tablesof4to8']
 
 # Dependent variable
 y = benihana['Profit']
 
-# Pre-process categorical variables using one-hot encoding
+# Ensure that the "4shareatable" is included as a category for batching variables
 for category in categorical_variables:
-    # Make sure all categories including '4shareatable' are considered
-    all_categories = benihana[category].unique().tolist()
-    if '4shareatable' not in all_categories:
-        all_categories.append('4shareatable')
-    benihana[category] = pd.Categorical(benihana[category], categories=all_categories)
+    if 'Batching' in category:
+        benihana[category] = pd.Categorical(benihana[category], categories=batching_categories)
 
+# One-hot encode categorical variables
 dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
 # Combine numeric variables and dummies
