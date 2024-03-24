@@ -23,6 +23,9 @@ for category in categorical_variables:
 # One-hot encode categorical variables
 dummies = pd.get_dummies(benihana[categorical_variables], drop_first=True)
 
+# One-hot encode categorical variables without dropping the first category
+dummies = pd.get_dummies(benihana[categorical_variables], drop_first=False)
+
 # Combine numeric variables and dummies
 X = pd.concat([benihana[numeric_variables], dummies], axis=1)
 
@@ -43,3 +46,8 @@ C, residuals, rank, s = lstsq(A, y)
 print("Coefficients:")
 for name, coef in zip(['Intercept'] + X.columns.tolist(), C):
     print(f"{name}: {coef}")
+
+# Manually adding the base category coefficient (it is part of the intercept)
+print(f"Batching_1_SemBatch: 0 (base category, effect included in the intercept)")
+print(f"Batching_2_SemBatch: 0 (base category, effect included in the intercept)")
+print(f"Batching_3_SemBatch: 0 (base category, effect included in the intercept)")
